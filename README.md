@@ -1,6 +1,6 @@
 # Willie Nelson Fan Website
 
-This is a fan-made website dedicated to the legendary country music artist, Willie Nelson.
+This is a fan-made website dedicated to the legendary country music artist, ***Willie Nelson***.
 
 ## Features
 
